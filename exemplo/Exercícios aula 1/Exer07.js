@@ -1,0 +1,1 @@
+prompt("entre com um nome:");
